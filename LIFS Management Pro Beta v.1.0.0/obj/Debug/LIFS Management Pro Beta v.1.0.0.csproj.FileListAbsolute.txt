@@ -1,0 +1,65 @@
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.exe.config
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.exe
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.pdb
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0.Properties.Resources.resources
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._00_InheritForm.resources
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._01_StarterForm.resources
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._03_MainForm.resources
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.exe
+C:\Users\mrt_b\source\repos\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.pdb
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.exe.config
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.exe
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.pdb
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\Bunifu_UI_v1.52.dll
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0.Properties.Resources.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._00_InheritForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._01_StarterForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._02_LoginForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._03_MainForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csproj.GenerateResource.Cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csproj.CoreCompileInputs.cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.exe
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.pdb
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._05_ContentForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._07_AddSubjectForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._04_HomeForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms.PanelMain.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._08_AddTermCardForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._09_UpdateSubjectForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._10_UpdateTermCardForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._11_DeleteSubjectForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._12_DeleteTermCardForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.exe.config
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.exe
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\LIFS Management Pro Beta v.1.0.0.pdb
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0.Properties.Resources.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._00_InheritForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._02_LoginForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._03_MainForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._04_HomeForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._05_ContentForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms.PanelMain.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._07_AddSubjectForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._01_StarterForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._08_AddTermCardForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._09_UpdateSubjectForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._10_UpdateTermCardForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._11_DeleteSubjectForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS_Management_Pro_Beta_v._1._0._0._02_Forms._12_DeleteTermCardForm.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csproj.GenerateResource.Cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.csproj.CoreCompileInputs.cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.exe
+G:\03 - Cloud\01 - Sky Drive\OneDrive\Masaüstü\C# Projects Repository\LIFS Management Pro Beta v.1.0.0\LIFS Management Pro Beta v.1.0.0\obj\Debug\LIFS Management Pro Beta v.1.0.0.pdb

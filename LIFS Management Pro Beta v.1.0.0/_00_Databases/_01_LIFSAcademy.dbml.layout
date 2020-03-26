@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="_01_LIFSAcademy">
+  <DataContextMoniker Name="/_01_LIFSAcademyDataContext" />
+  <nestedChildShapes>
+    <classShape Id="500ffb6d-e0e1-43e7-8eba-b37b6882e5e8" absoluteBounds="2.75, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/_01_LIFSAcademyDataContext/LIFSSUBJECT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4f46517c-6ca5-4d7c-800b-7b0601cadc6d" absoluteBounds="2.765, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4bac8f5f-9aaa-4667-9c26-08192d9e5c5a" absoluteBounds="4.875, 0.5, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/_01_LIFSAcademyDataContext/LIFSLOGIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bdc4d370-c7aa-48b5-939b-8b24ca58c743" absoluteBounds="4.89, 0.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0a6eeba4-e924-471c-80c7-c97b9535e96d" absoluteBounds="0.5, 0.5, 2, 2.5401025390625">
+      <DataClassMoniker Name="/_01_LIFSAcademyDataContext/LIFSCONTENT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4238567-3f19-44aa-a279-55a23a89bce5" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51981e5b-d444-4804-b3e2-9acf12045f34" absoluteBounds="7.125, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/_01_LIFSAcademyDataContext/LIFSLOG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1f185a54-3b53-446f-8f24-5e16422b6101" absoluteBounds="7.1400000000000006, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="86b161ab-795b-4dcd-8c99-ba6320df4396" absoluteBounds="3.375, 4.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/_01_LIFSAcademyDataContext/LIFSUSERSCORE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="56b4dbc6-d38f-4aa0-922b-69e020262b5c" absoluteBounds="3.39, 4.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LIFSACADEMY" Class="_01_LIFSAcademyDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-E51U7VA\SQLEXPRESS;Initial Catalog=LIFSACADEMY;Integrated Security=True" SettingsObjectName="LIFS_Management_Pro_Beta_v._1._0._0.Properties.Settings" SettingsPropertyName="LIFSACADEMYConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LIFSSUBJECT" Member="LIFSSUBJECT">
+    <Type Name="LIFSSUBJECT">
+      <Column Name="SUBJECTID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SUBJECTNAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="USERID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ADDDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="REVISION" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="REVUSERID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="REVDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LIFSLOGIN" Member="LIFSLOGIN">
+    <Type Name="LIFSLOGIN">
+      <Column Name="USERDID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="USERNAME" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AUTHORITY" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROFIL" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LASTNAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ONLINESTATUS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="USERAKA" Type="System.String" DbType="NChar(2)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LIFSCONTENT" Member="LIFSCONTENT">
+    <Type Name="LIFSCONTENT">
+      <Column Name="SUBJECT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TITLE" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CONTETT" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="USERID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ADDDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="REV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="REVDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="QUALITYCONTROL" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="REVUSERID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LIFSLOG" Member="LIFSLOG">
+    <Type Name="LIFSLOG">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="USERID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="INFO" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="DATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="USERAKA" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LIFSUSERSCORE" Member="LIFSUSERSCORE">
+    <Type Name="LIFSUSERSCORE">
+      <Column Name="USERID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LASTNAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TOTALSCORE" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TERMSCORE" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
